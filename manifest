@@ -120,6 +120,9 @@ export PACKAGES="\
 	pipewire-jack \
 	pipewire-pulse \
 	podman \
+	plasma
+	plasma-nm
+	plasma-meta
 	pulsemixer \
 	python \
 	python-inotify-simple \
